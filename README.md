@@ -32,6 +32,7 @@ Try asking:
 1. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
+   pip install Pillow (To load and display your avatar image)
    ```
 
 2. **Start Ollama with Mistral**  
