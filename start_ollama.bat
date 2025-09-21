@@ -1,0 +1,1 @@
+"C:\Users\hbenn\AppData\Local\Programs\Ollama\ollama.exe" run mistral
