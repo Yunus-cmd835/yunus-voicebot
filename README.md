@@ -34,13 +34,17 @@ Try asking:
    pip install -r requirements.txt
    pip install Pillow (To load and display your avatar image)
    ```
-
-2. **Start Ollama with Mistral**  
+2. **Ollama should be downloaded in the sytem through Google Chrome**
+   ```bash
+   https://ollama.com/download
+   ```
+   
+3. **Start Ollama with Mistral**  
    ```bash
    ollama run mistral
    ```
 
-3. **Run the app**  
+4. **Run the app**  
    ```bash
    streamlit run app.py
    ```
