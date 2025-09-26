@@ -39,12 +39,12 @@ Try asking:
    https://ollama.com/download
    ```
    
-3. **Start Ollama with Mistral**  
+3. **Start Ollama with Mistral Terminal 1**  
    ```bash
    ollama run mistral
    ```
 
-4. **Run the app**  
+4. **Run the app Terminal 2**  
    ```bash
    streamlit run app.py
    ```
